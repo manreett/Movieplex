@@ -8,4 +8,3 @@ Once all the files are placed in the www folder that is in the wamp64 folder, st
 Import the SQL file into phpmyadmin. The database (db) should be named movie.
 Afterwards, make sure the config.php code matches your host, user and password information in order for the connection to work. 
 If everything succeeds, open the home page of Movieplex and browse through the website. If the database was connected successfully, it should display the movie info, theater info and tickets, as all this information is from the movie database.
-
